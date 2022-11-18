@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Smart Home Management System</string>
+    <string name="title_home">Trang chủ</string>
+    <string name="title_room">Phòng</string>
+    <string name="title_user">Tôi</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <drawable name="moon_active">@drawable/moon_active</drawable>
+    <drawable name="moon_negative">@drawable/moon_negative</drawable>
+    <drawable name="sun_active">@drawable/sun_active</drawable>
+    <drawable name="sun_negative">@drawable/sun_negative</drawable>
+    <drawable name="home_active">@drawable/home_active</drawable>
+    <drawable name="home_negative">@drawable/home_negative</drawable>
+    <drawable name="btn_active">@color/darkBlue</drawable>
+    <drawable name="btn_negative">@color/lightBlue</drawable>
+</resources>
